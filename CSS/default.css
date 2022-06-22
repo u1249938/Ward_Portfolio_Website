@@ -347,7 +347,7 @@
 	#menu li.active span {}
 
 	#menu .current_page_item a {
-		background: #750BCB;
+		background: rgba(115, 11, 201, 0.4);
 		border-bottom: 4px solid #000;
 		color: #FFF;
 	}
